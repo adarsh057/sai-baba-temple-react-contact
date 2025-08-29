@@ -1,5 +1,5 @@
 import React from 'react';
-import Sample from './components/Sample';
+import Sample from './components/Sample.js';
 import './index.css';
 
 function App() {
