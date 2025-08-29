@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const SaiBabaTemple = () => {
+const SaiBabaTempleContact = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [isScrolled, setIsScrolled] = useState(false);
   const [showScrollTop, setShowScrollTop] = useState(false);
@@ -457,4 +457,4 @@ const SaiBabaTemple = () => {
   );
 };
 
-export default SaiBabaTemple;
+export default SaiBabaTempleContact;
