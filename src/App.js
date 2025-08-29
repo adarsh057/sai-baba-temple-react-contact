@@ -1,11 +1,11 @@
 import React from 'react';
-import Home from './components/Home.js';
+import SaiBabaTempleContact.js from './components/SaiBabaTempleContact.js';
 import './index.css';
 
 function App() {
   return (
     <div className="App">
-      <Home/>
+      <SaiBabaTempleContact/>
     </div>
   );
 }
