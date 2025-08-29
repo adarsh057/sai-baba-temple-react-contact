@@ -1,5 +1,5 @@
 import React from 'react';
-import SaiBabaTempleContact.js from './components/SaiBabaTempleContact.js';
+import SaiBabaTempleContact from './components/SaiBabaTempleContact.js';
 import './index.css';
 
 function App() {
