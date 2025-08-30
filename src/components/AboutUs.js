@@ -396,7 +396,7 @@ const AboutUs = () => {
 
         .page-hero-content {
   max-width: 800px;
-  margin: 50px 10px 10px 10px; 
+  margin: 80px 10px 10px 10px; 
   padding: 0 3rem;
   z-index: 2;
   animation: fadeInUp 1.2s cubic-bezier(0.4, 0, 0.2, 1);
