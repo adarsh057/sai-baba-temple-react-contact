@@ -396,6 +396,7 @@ const AboutUs = () => {
 
         .page-hero-content {
           max-width: 800px;
+          margin:10px
           padding: 0 3rem;
           z-index: 2;
           animation: fadeInUp 1.2s cubic-bezier(0.4, 0, 0.2, 1);
@@ -1212,7 +1213,7 @@ const AboutUs = () => {
         </div>
       </header>
 
-      {/* Mobile Menu */}
+ 
       <div className={`mobile-menu ${mobileMenuActive ? 'active' : ''}`}>
         <nav>
           <ul className="nav-links">
@@ -1239,7 +1240,7 @@ const AboutUs = () => {
         </div>
       </section>
 
-      {/* About Introduction */}
+     
       <section className="about-intro">
         <div className="container">
           <div className="about-intro-content reveal">
